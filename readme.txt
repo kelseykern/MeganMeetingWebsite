@@ -8,7 +8,11 @@ then git clone this repo onto your computer using github desktop
 install vscode
 https://code.visualstudio.com/
 
-cd to that folder with your git bash window
+open git bash window
+
+cd C/Users/megan/Desktop/GitOut
+
+ls
 
 code MeganMeetingWebsite (it should open the repo in vscode)
 
