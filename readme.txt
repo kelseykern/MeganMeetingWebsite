@@ -10,11 +10,11 @@ https://code.visualstudio.com/
 
 open git bash window
 
-cd C/Users/megan/Desktop/GitOut
+$ cd C/Users/megan/Desktop/GitOut
 
-ls
+$ ls
 
-code MeganMeetingWebsite (it should open the repo in vscode)
+$ code MeganMeetingWebsite (it should open the repo in vscode)
 
 open index.html in your web browser by double clicking it
 
