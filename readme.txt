@@ -5,10 +5,12 @@ objects.githubusercontent.com
 
 then git clone this repo onto your computer using github desktop
 
-cd to that folder with your git bash window
-
 install vscode
 https://code.visualstudio.com/
+
+cd to that folder with your git bash window
+
+code MeganMeetingWebsite (it should open the repo in vscode)
 
 open index.html in your web browser by double clicking it
 
