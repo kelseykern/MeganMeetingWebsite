@@ -1,8 +1,14 @@
+
 install git
+https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe
+objects.githubusercontent.com
 
 then git clone this repo onto your computer using github desktop
 
 cd to that folder with your git bash window
+
+install vscode
+https://code.visualstudio.com/
 
 open index.html in your web browser by double clicking it
 
